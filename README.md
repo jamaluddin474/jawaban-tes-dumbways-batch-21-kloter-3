@@ -22,5 +22,5 @@
 4. untuk soal no. 4,
    1. screenshot ada di folder 4a
    2. web ada di folder 4b, pastikan terminal ada di directory 4b lalu jalankan perintah
-      `php -S php -S 127.0.0.1:3000`
+      `php -S 127.0.0.1:3000`
       lalu buka http://localhost:3000 di browser
